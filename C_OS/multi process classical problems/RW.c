@@ -1,3 +1,5 @@
+//Reader Writer
+
 #include "i.h"
 #define RW 4
 typedef struct shared
